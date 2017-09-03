@@ -1,0 +1,33 @@
+.huodonghui{width: 1200px;height: 160px;margin: 0 auto;}
+.huodonghui h1{padding-top: 58px;text-align: center;color: #2048a8;font-size: 49px;}
+.huodonghui p{line-height: 43px;font-size: 13px;float: right;color: #1253a7;}
+.banner{width: 1200px;height:400px;margin: 0 auto;background:url(../images/img55dd812f6e60a.png) no-repeat;}
+.banner .lianjie{padding: 285px 0 0 56px;}
+.banner .lianjie a{width:220px;height: 48px;display: block;line-height: 48px;text-align:center;background: #f4db40;border-radius: 6px;}
+.main1{width: 1200px;height: 322px;margin: 0 auto;}
+.main1 .left{width: 380px;height: 320px;border: 1px solid #dbdbdb;float: left;margin-top: 50px; position: relative;}
+.main1 .left img{padding-top: 20px;}
+.main1 .left h3{line-height: 23px;height: 23px;padding-top: 9px;font-size: 16px;font-weight: normal;padding-left: 12px;}
+.main1 .left p{line-height: 19px;height: 19px;font-size: 12px;color: #6b6768;padding-left: 12px;}
+.main1 .left .riqi{padding-bottom: 17px;}
+.main1 .mid{margin: 50px 27px 0;}
+.main1 .left span{width: 85px;display: block;position: absolute;left: 40%; top: -12px;background: #fff;text-align: center;color: #3698e3;}
+.huodong1{height:160px;width: 1200px;margin: 0 auto;}
+.huodong1 h1{font-size: 40px;line-height: 120px;text-align: center;padding-top: 40px;}
+.main2{height: 392px; border-top: 1px solid #d6dee0;}
+.main2 .m2_inner{width: 1200px;height: 392px;margin: 0 auto;position: relative;}
+.m2_inner span{width: 310px;display: block;background: #fff;position: absolute;left: 37%;top:-12px;text-align: center;color: #8f8584;}
+.m2_inner .m2_left{width: 350px;height: 217px;margin-top: 50px;border: 1px solid #dbdbdb;float: left;margin-right:22px ;}
+.m2_left p{line-height: 37px;height: 37px;font-size: 14px;padding-left: 15px;color: #2b2f30;}
+.m2_left1{margin-left: 50px;}
+.main3{height: 700px;background: #f5f5f5;}
+.m3_inner{width: 1200px;height: 714px;margin: 0 auto;position: relative;}
+.m3_inner .m3_pictext{height: 186px;}
+.m3_inner h3{line-height: 63px;height: 63px;font-size: 18px;}
+.m3_inner .neir{width: 379px;height: 121px;border: 1px solid #dbdbdb;float: left;}
+.m3_inner .neir img{float: left;margin: 4px 8px 4px 4px;}
+.m3_inner .neir p{line-height: 22px;font-size: 14px;margin:29px 13px;}
+.m3_inner .neir_mid{margin: 0 28px;}
+.zhixian{height:70px;border-bottom: 1px solid #dbdbdb;position: relative;}
+.zhixian span{width: 198px;background:#f5f5f5;font-size: 40px;display: block;position: absolute;left: 44%;bottom: -24px;text-align: center;}
+

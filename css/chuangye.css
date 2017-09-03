@@ -1,0 +1,81 @@
+.banner{height: 500px;width:100%;background:#d1d6dc url(../images/tengxunyun1.png) no-repeat center;background-size: cover;}
+.main1{width: 1200px;margin: 0 auto;height: 1024px;border-bottom:1 solid #0078E0;}
+.main1 h3{line-height: 231px;height: 231px;font-size: 60px;text-align: center;font-weight: normal;}
+.main1 ul{}
+.main1 ul li{width: 186px;height: 390px;text-align: center;margin-right: 145px;float: left;}
+.main1 ul .li1{margin-left: 182px;}
+.main1 ul li h4{line-height: 74px;font-size: 20px;font-weight: normal;}
+.main1 ul li p{line-height: 27px;font-size: 14px;text-align: left;color: #aeaaa1;}
+
+.main2{width: 1200px;margin: 0 auto;height: 1010px;border-top: 1px solid #dbdbdb;position: relative;text-align: center;}
+.main2 h3{text-align: center;line-height: 272px;font-size: 60px;font-weight: normal;}
+.main2 .xuxian{border-bottom: 1px dotted #0071CF;width: 700px;margin: 0 auto;}
+.main2 .liuc{width:180px;float: left;position: relative;left:0; top:-23px;}
+.main2 .liuc p{font-size: 15px;margin-left: 0;text-align: center;color: #656a80;}
+.main2 .liuc1{margin-left: 150px;}
+.main2 .yuan{width: 42px;height: 42px;border: 1px solid #0071CF; border-radius: 21px;text-align: center;line-height: 42px;display: inline-block;background: #fff;color:#656a80;}
+.main2 h4{line-height: 122px;width: 140px;margin-top: 43px;margin-left: 75px;font-size: 25px;font-weight: normal;}
+.main2 p{line-height: 40px;font-size: 15px;margin-left: 95px;text-align: left;}
+.main2 a{width: 280px;height: 50px;background: #0071cd;text-align: center;font-size: 18px;display: inline-block;line-height: 50px;margin-top: 105px;border-radius: 4px;color: #fff;}
+
+.main3{background: #006fcb;height: 443px;width: 1520px;margin: 0 auto;}
+.m3_inner{width: 1200px;margin: 0 auto;text-align: center;}
+.m3_inner h2{line-height: 152px;height: 152px;margin-top: 40px;font-size: 60px;color: #fff;font-weight: normal;}
+.m3_inner p{line-height: 40px;font-size: 14px;color: #fff;}
+.main3 a{width: 379px;height: 130px;border-right: 1px solid #0066bb;display: block;float: left;line-height: 130px;color: #fff;text-align: center;font-size: 30px;margin-top: 80px;position: relative;}
+.main3 .zc .sanjiaoxing{width:0;height: 0;border-bottom: 18px solid #fff;border-left: 18px solid transparent;border-right:18px solid transparent;position: absolute;left:171px;bottom: -1px;}
+.main3 a:hover{background: #007be2;}
+.main3 a:hover .sanjiaoxing{width:0;height: 0;border-bottom: 18px solid #fff;border-left: 18px solid transparent;border-right:18px solid transparent;position: absolute;left:171px;bottom: -1px;}
+
+.main4{width: 1200px;height:600px;margin: 0 auto;text-align: center;}
+.m4_inner{width: 299px;text-align: center;border-right: 1px solid #e1e1e1;float: left;margin-top: 76px;}
+.m4_inner h3{line-height: 85px;font-size: 20px;font-weight:normal;}
+.m4_inner p{line-height: 32px;font-size: 15px;margin: 0 56px;text-align: left;}
+.main4 a{width: 280px;height: 50px;background: #0071cd;text-align: center;font-size: 18px;display: inline-block;line-height: 50px;margin-top: 130px;border-radius: 4px;color: #fff;}
+
+.main5{height: 935px;background: #f1f6fc;}
+.m5_inner{width: 1200px;margin: 0 auto;position: relative;text-align: center;}
+.m5_inner h2{line-height: 270px;font-size: 60px;font-weight: normal;}
+.m5_inner .xuxian{border-bottom: 1px solid #c1c1c1;width: 896px;margin: 0 auto;}
+.m5_inner ul{;position: relative;left:0; top:-13px;display: inline-block;}
+.m5_inner ul li{margin: 0 74px;float: left;height: 110px;position: relative;}
+.m5_inner li p{font-size: 15px;margin-left: 0;text-align: center;}
+.m5_inner li .mon{color: #626864;font-size: 14px;}
+.m5_inner li .qidai{color: #c1c1c1;}
+.m5_inner .yuan{width: 20px;height: 20px;border: 1px solid #0071CF; border-radius: 21px;display: inline-block;background: #fff;}
+.main5 .yuan1{background: #0365c8;}
+.main5 .yuan2{border-color: #c1c1c1;}
+.m5_inner a{line-height: 19px;font-size: 39px;color: #0473cf;}
+.m5_inner .zhixian{border-bottom: 2px solid #b7bcc2;}
+.m5_inner li .sanjiaoxing{width:0;height: 0;border-bottom: 12px solid #b7bcc2;border-left: 12px solid transparent;border-right:12px solid transparent;position: absolute;left:9px;bottom: -19px;}
+.m5_inner li .sanjiaoxing1{width:0;height: 0;border-bottom: 9px solid #fff;border-left: 9px solid transparent;border-right:9px solid transparent;margin: 3px 0 0 -9px;}
+.m5_inner h3{text-align: left;margin-top: 30px;line-height: 120px;font-size: 40px;font-weight: normal;}
+.m5_inner h4{text-align: left;font-size: 16px;line-height: 40px;}
+.m5_inner span{text-align: left;font-weight: normal;font-size: 14px;}
+.m5_inner .baoming{width: 280px;height: 50px;background: #dcdcdc;text-align: center;font-size: 18px;display: inline-block;line-height: 50px;margin-top: 90px;border-radius: 4px;color: #f8f8f8;}
+
+.main6{margin: 0 auto;text-align: center;height: 512px;}
+.main6 h2{line-height: 232px;padding-top: 18px;font-size: 60px;font-weight: normal;}
+.main6 ul{display: inline-block;}
+.main6 ul li{width: 182px;float: left;margin: 0 13px;}
+.main6 ul li .pic{height: 120px;}
+.main6 ul li .pic .pfirst{margin-top: 20px;}
+.main6 ul li .pic .plast{margin-top: 20px;}
+.main6 ul li p{line-height: 27px;font-size: 16px;color: #1a1929;}
+
+.main7{margin: 0 auto;text-align: center;background: #f1f6fc;height: 640px;}
+.main7 h2{line-height: 176px;padding-top: 40px;font-size: 60px;font-weight: normal;}
+.main7 .xinxi{display: inline-block;width: 851px;}
+.main7 .xinxi .wenti{width: 425px;float: left;border-right:1px solid #dee1e6;}
+.main7 .xinxi h3{float: left;font-size: 18px;line-height: 85px;height: 85px;width: 233px;text-align: left;}
+.main7 .xinxi .wenti p{float: left;font-size: 14px;height: 85px;line-height: 85px;width: 192px;color:#0681cf;}
+.main7 .xinxi .wenti ul{text-align: left;width: 425px;}
+.main7 .xinxi .wenti ul li{line-height: 30px;font-size: 13px;}
+.main7 .xinxi .wenti ul li span{color: #076bc0;font-size: 19px;}
+.main7 .xinxi .wenti ul li a:hover{color: #006FCB;}
+.main7 .xinxi .lianxi{width: 425px;float: left;}
+
+.main7 .xinxi .lianxi{width: 425px;float: right;}
+.main7 .xinxi .lianxi h3{width: 425px;text-align: center;}
+.main7 .xinxi .lianxi p{font-size: 13px;line-height: 35px;}
+.main7 .xinxi .hezuo{margin-top:28px ;}
